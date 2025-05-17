@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\premc\OneDrive\Desktop\CLASS\.metadata\.plugins\org.eclipse.jdt.core
+65872763.index
+132620216.index
+1865797976.index
+3638199084.index
+4086727744.index
